@@ -1,6 +1,6 @@
 ## Hello world!
 
-<p>#I'am Murillo Leal </p>
+<p><b>I'am Murillo Leal</b> </p>
 I love to solve problems using programming!
 
 - I'm currently working on Rockseat(NLW#2) project and a App's drivers management.
