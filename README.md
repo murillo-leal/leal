@@ -9,6 +9,6 @@ I love to solve problems using programming!
 
 - I'm looking to collaborate on everthing I can be usefull :)
 
-- How to reach me: https://www.facebook.com/murilloadcl/ 
-                   https://www.linkedin.com/in/murillo-leal/ 
-                   murilloadcl@msn.com
+- How to reach me: <p>https://www.facebook.com/murilloadcl/</p>
+                   <p>https://www.linkedin.com/in/murillo-leal/ </p>
+                   <p>murilloadcl@msn.com</p>
