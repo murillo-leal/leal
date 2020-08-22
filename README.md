@@ -5,7 +5,7 @@ I love to solve problems using programming!
 
 - I'm currently working on Rockseat(NLW#2) project and a App's drivers management.
 
-- I'm learning JavaScript, CSS, C# and MySql
+- I'm learning JavaScript, CSS, C#, ReactJS and MySql
 
 - I'm looking to collaborate on everthing I can be usefull :)
 
